@@ -1,0 +1,4838 @@
+# Nmap 6.46 scan initiated Tue Apr 12 18:45:36 2016 as: nmap -p 80,443 --open -oN /Users/will/Documents/80osuscan.txt 140.254.189.5/16
+Nmap scan report for 140.254.0.34
+Host is up (0.0093s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for tctest-vpn1-act.net.ohio-state.edu (140.254.0.108)
+Host is up (0.0075s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for silo1.asc.ohio-state.edu (140.254.1.102)
+Host is up (0.0066s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for fw-wh.rf.ohio-state.edu (140.254.1.130)
+Host is up (0.0081s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for ebs.fod.ohio-state.edu (140.254.2.53)
+Host is up (0.0064s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for ebs-foot.busfin.ohio-state.edu (140.254.2.54)
+Host is up (0.0064s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for historian.busfin.ohio-state.edu (140.254.2.55)
+Host is up (0.0063s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for historian.fod.ohio-state.edu (140.254.2.56)
+Host is up (0.0063s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.3.195
+Host is up (0.0077s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for AxisProduct.asc.ohio-state.edu (140.254.3.231)
+Host is up (0.0087s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for webauth4.it.ohio-state.edu (140.254.4.8)
+Host is up (0.0036s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for authdev.it.ohio-state.edu (140.254.4.9)
+Host is up (0.0082s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for webauth1.it.ohio-state.edu (140.254.4.10)
+Host is up (0.0098s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for webauth2.it.ohio-state.edu (140.254.4.11)
+Host is up (0.0099s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for authvm.it.ohio-state.edu (140.254.4.12)
+Host is up (0.0056s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for authtest.it.ohio-state.edu (140.254.4.13)
+Host is up (0.0071s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for dhcp-140-254-4-69.newark.ohio-state.edu (140.254.4.69)
+Host is up (0.021s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for dhcp-140-254-4-70.newark.ohio-state.edu (140.254.4.70)
+Host is up (0.022s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for dhcp-140-254-4-73.newark.ohio-state.edu (140.254.4.73)
+Host is up (0.011s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.4.220
+Host is up (0.0065s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.6.5
+Host is up (0.0057s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.6.7
+Host is up (0.0056s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.6.11
+Host is up (0.0057s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.6.12
+Host is up (0.0060s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for exchange.imres.med.ohio-state.edu (140.254.6.22)
+Host is up (0.0057s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.6.28
+Host is up (0.0064s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.6.31
+Host is up (0.0083s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for 140.254.6.32
+Host is up (0.015s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for 140.254.6.40
+Host is up (0.0037s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.6.74
+Host is up (0.0037s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.6.82
+Host is up (0.0041s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.6.83
+Host is up (0.0072s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.6.86
+Host is up (0.0062s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for 140.254.6.93
+Host is up (0.0064s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.6.108
+Host is up (0.0060s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for vpn.asc.ohio-state.edu (140.254.6.130)
+Host is up (0.0064s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.14.66
+Host is up (0.0048s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for ns.instageni.osu.edu (140.254.14.68)
+Host is up (0.022s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.14.69
+Host is up (0.023s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for gtlfw.mecheng.osu.edu (140.254.14.130)
+Host is up (0.023s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for fw-brt.rf.ohio-state.edu (140.254.14.194)
+Host is up (0.0044s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for sslvpn.busfin.ohio-state.edu (140.254.15.4)
+Host is up (0.0068s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.16.137
+Host is up (0.074s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.16.138
+Host is up (0.0086s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.16.139
+Host is up (0.0080s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.16.140
+Host is up (0.0075s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for JE255-DellC3760dn.asc.ohio-state.edu (140.254.16.146)
+Host is up (0.018s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for JE260a-XeroxWC5875.asc.ohio-state.edu (140.254.16.147)
+Host is up (0.017s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.16.148
+Host is up (0.0099s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for QM-RMCRX-BA-00107F0101A2.asc.ohio-state.edu (140.254.16.184)
+Host is up (0.017s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for QM-RMCRX-BA-00107F010BB6.asc.ohio-state.edu (140.254.16.187)
+Host is up (0.015s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for QM-RMCRX-BA-00107F010000.asc.ohio-state.edu (140.254.16.189)
+Host is up (0.025s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for QM-RMCRX-BA-00107F01FED6.asc.ohio-state.edu (140.254.16.190)
+Host is up (0.016s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for JE280-CREST.asc.ohio-state.edu (140.254.16.192)
+Host is up (0.016s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for epo.moritzlaw.ohio-state.edu (140.254.18.230)
+Host is up (0.0050s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for opsweb01.it.ohio-state.edu (140.254.20.11)
+Host is up (0.011s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for lyncdiscover.osu.edu (140.254.20.14)
+Host is up (0.0066s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for cppm-tc1.net.ohio-state.edu (140.254.20.26)
+Host is up (0.0069s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for cppm-tc2.net.ohio-state.edu (140.254.20.27)
+Host is up (0.0066s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for cppm-tc3.net.ohio-state.edu (140.254.20.28)
+Host is up (0.0068s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for ccnprapp01.itprod.ohio-state.edu (140.254.20.34)
+Host is up (0.0068s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for ccnprapp02.itprod.ohio-state.edu (140.254.20.35)
+Host is up (0.0088s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for cio-krc-i3web.osuad.osu.edu (140.254.20.53)
+Host is up (0.0062s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for csw-web.itprod.ohio-state.edu (140.254.20.70)
+Host is up (0.080s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for ldgateway.it.ohio-state.edu (140.254.20.76)
+Host is up (0.011s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for Lyncdiscover.voip.osu.edu (140.254.20.94)
+Host is up (0.055s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for tickets.wexarts.org (140.254.20.176)
+Host is up (0.0081s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for ttm-webprd-01.bcd.it.osu.edu (140.254.20.180)
+Host is up (0.012s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.21.159
+Host is up (0.0060s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.21.167
+Host is up (0.092s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.21.243
+Host is up (0.0081s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.21.250
+Host is up (0.013s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for coderepoprdvip.it.ohio-state.edu (140.254.22.15)
+Host is up (0.0096s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for coderepotstvip.it.ohio-state.edu (140.254.22.16)
+Host is up (0.0086s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for CIO-LSEDPOOL01.osuad.osu.edu (140.254.22.20)
+Host is up (0.0072s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for CIO-LSEDPOOL01.osuad.osu.edu (140.254.22.23)
+Host is up (0.0084s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for cppm-kc0.net.ohio-state.edu (140.254.22.24)
+Host is up (0.0078s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for cppm-kc1.net.ohio-state.edu (140.254.22.25)
+Host is up (0.0084s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for cppm-kc2.net.ohio-state.edu (140.254.22.26)
+Host is up (0.0074s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for cppm-kc3.net.ohio-state.edu (140.254.22.27)
+Host is up (0.0074s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for wcawebprd01.bcd.it.osu.edu (140.254.22.84)
+Host is up (0.0047s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for sfbtest-ed01.voip.osu.edu (140.254.22.93)
+Host is up (0.0069s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for helix07.it.ohio-state.edu (140.254.23.69)
+Host is up (0.0067s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for drm.it.ohio-state.edu (140.254.23.73)
+Host is up (0.0077s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for cdmdweb01.ad.service.osu.edu (140.254.23.74)
+Host is up (0.0074s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for streaming-ftp.it.ohio-state.edu (140.254.23.76)
+Host is up (0.0056s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for ltms01.it.ohio-state.edu (140.254.23.77)
+Host is up (0.0056s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for lcprweb01.it.ohio-state.edu (140.254.23.88)
+Host is up (0.0052s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for helixsrv.it.ohio-state.edu (140.254.23.91)
+Host is up (0.086s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for lcms01.it.ohio-state.edu (140.254.23.94)
+Host is up (0.0054s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for lord-141.physfac.ohio-state.edu (140.254.23.141)
+Host is up (0.0050s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for vpn1.ath.ohio-state.edu (140.254.23.143)
+Host is up (0.010s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for chimera.asc.ohio-state.edu (140.254.23.226)
+Host is up (0.0046s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for sheet.med.ohio-state.edu (140.254.26.252)
+Host is up (0.0076s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for po-ha-s1.asc.ohio-state.edu (140.254.27.15)
+Host is up (0.0048s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for itvpn.nursing.osu.edu (140.254.28.2)
+Host is up (0.0099s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for dhcp-28-62.con.ohio-state.edu (140.254.28.62)
+Host is up (0.011s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for dhcp-28-63.con.ohio-state.edu (140.254.28.63)
+Host is up (0.011s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for production.nursing.osu.edu (140.254.28.132)
+Host is up (0.017s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for repo.nursing.osu.edu (140.254.28.133)
+Host is up (0.017s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for dhcp-28-169.con.ohio-state.edu (140.254.28.169)
+Host is up (0.013s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for survey.con.ohio-state.edu (140.254.28.172)
+Host is up (0.028s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for mstsc.con.ohio-state.edu (140.254.28.177)
+Host is up (0.021s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for cloud.nursing.osu.edu (140.254.28.178)
+Host is up (0.021s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for iswat.con.ohio-state.edu (140.254.28.185)
+Host is up (0.021s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for studentweb.con.ohio-state.edu (140.254.28.197)
+Host is up (0.011s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for webserver2012.nursing.osu.edu (140.254.28.203)
+Host is up (0.0085s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for intranet.con.ohio-state.edu (140.254.28.209)
+Host is up (0.0064s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for vpn.con.ohio-state.edu (140.254.28.211)
+Host is up (0.0087s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for panopto.con.ohio-state.edu (140.254.28.212)
+Host is up (0.0060s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for articulate.nursing.osu.edu (140.254.28.228)
+Host is up (0.011s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for infravpn.asc.ohio-state.edu (140.254.35.250)
+Host is up (0.027s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.36.152
+Host is up (0.020s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.36.153
+Host is up (0.017s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.36.154
+Host is up (0.016s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.36.162
+Host is up (0.028s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.37.66
+Host is up (0.0097s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.37.67
+Host is up (0.0059s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.37.68
+Host is up (0.014s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.37.69
+Host is up (0.017s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.37.70
+Host is up (0.017s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.37.71
+Host is up (0.010s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.37.72
+Host is up (0.011s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.37.73
+Host is up (0.011s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.37.74
+Host is up (0.026s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.37.78
+Host is up (0.024s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for argus.cio.ohio-state.edu (140.254.37.100)
+Host is up (0.022s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for SCCM-D1.asc.ohio-state.edu (140.254.38.78)
+Host is up (0.021s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.39.120
+Host is up (0.021s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for dhcp-140-254-39-152.buckeyetv.ohio-state.edu (140.254.39.152)
+Host is up (0.032s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for dhcp-140-254-39-155.buckeyetv.ohio-state.edu (140.254.39.155)
+Host is up (0.039s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for pal.buckeyetv.ohio-state.edu (140.254.39.183)
+Host is up (0.012s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for 140.254.39.201
+Host is up (0.020s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.39.203
+Host is up (0.014s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.43.2
+Host is up (0.079s latency).
+Not shown: 1 closed port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for 140.254.43.10
+Host is up (0.053s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.48.129
+Host is up (0.016s latency).
+Not shown: 1 closed port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for idec142.idecweb.us (140.254.48.142)
+Host is up (0.026s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for rrus.idecweb.us (140.254.48.186)
+Host is up (0.021s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for idec246.idecweb.us (140.254.48.246)
+Host is up (0.011s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for aarlfw.mecheng.osu.edu (140.254.53.2)
+Host is up (0.016s latency).
+Not shown: 1 closed port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for 140.254.56.1
+Host is up (0.015s latency).
+Not shown: 1 closed port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for DA.esue.ohio-state.edu (140.254.60.82)
+Host is up (0.036s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.60.83
+Host is up (0.012s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.60.148
+Host is up (0.0031s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for 140.254.60.149
+Host is up (0.0042s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for orvpn.rf.ohio-state.edu (140.254.62.130)
+Host is up (0.0047s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for orwiki.rf.ohio-state.edu (140.254.62.137)
+Host is up (0.013s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for clickwebprod.rf.ohio-state.edu (140.254.62.139)
+Host is up (0.096s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for fom.rf.ohio-state.edu (140.254.62.163)
+Host is up (0.037s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.62.164
+Host is up (0.016s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for rfid64.rf.ohio-state.edu (140.254.62.171)
+Host is up (0.018s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for rflinux.rf.ohio-state.edu (140.254.62.177)
+Host is up (0.016s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for orhelp.osu.edu (140.254.62.178)
+Host is up (0.014s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for eagle-i.rf.ohio-state.edu (140.254.62.179)
+Host is up (0.016s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for orwebprd01.rf.ohio-state.edu (140.254.62.181)
+Host is up (0.016s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for orwebtst01.rf.ohio-state.edu (140.254.62.183)
+Host is up (0.015s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.62.190
+Host is up (0.012s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.63.130
+Host is up (0.012s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.63.131
+Host is up (0.0076s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.63.228
+Host is up (0.0089s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.63.230
+Host is up (0.014s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.64.50
+Host is up (0.014s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.64.53
+Host is up (0.013s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for ap1.esue.ohio-state.edu (140.254.64.227)
+Host is up (0.015s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.64.231
+Host is up (0.0095s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for webvpn.esue.ohio-state.edu (140.254.64.232)
+Host is up (0.0083s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for hd4.esue.ohio-state.edu (140.254.64.234)
+Host is up (0.0095s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for WEB02.esue.ohio-state.edu (140.254.64.235)
+Host is up (0.0090s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for crmweb01.esue.ohio-state.edu (140.254.64.236)
+Host is up (0.0089s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for fellowships.esue.ohio-state.edu (140.254.64.243)
+Host is up (0.031s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.66.40
+Host is up (0.011s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.66.45
+Host is up (0.0084s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.66.130
+Host is up (0.016s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for ftp.aviation.ohio-state.edu (140.254.66.133)
+Host is up (0.055s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for cvmcapture3.vet.ohio-state.edu (140.254.66.210)
+Host is up (0.017s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for cvmdicom.vet.ohio-state.edu (140.254.66.216)
+Host is up (0.0091s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for cvmwebserv.vet.ohio-state.edu (140.254.66.218)
+Host is up (0.014s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for cvmwebhis.vet.ohio-state.edu (140.254.66.219)
+Host is up (0.015s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for cvmwebapp.vet.ohio-state.edu (140.254.66.220)
+Host is up (0.014s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for cvmweb.vet.ohio-state.edu (140.254.66.221)
+Host is up (0.020s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for mycvm.vet.ohio-state.edu (140.254.66.222)
+Host is up (0.077s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for fw-krc.rf.ohio-state.edu (140.254.66.226)
+Host is up (0.026s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for ieeweb.rf.ohio-state.edu (140.254.66.230)
+Host is up (0.022s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for eresearch.rf.ohio-state.edu (140.254.66.236)
+Host is up (0.017s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for ldcsa.rf.ohio-state.edu (140.254.66.250)
+Host is up (0.015s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for vpn.cdme.ohio-state.edu (140.254.67.18)
+Host is up (0.015s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for sysadmin.chbmeng.ohio-state.edu (140.254.67.29)
+Host is up (0.018s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.67.45
+Host is up (0.044s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for access.sociology.ohio-state.edu (140.254.67.53)
+Host is up (0.023s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for firewall.wac.ohio-state.edu (140.254.67.66)
+Host is up (0.039s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for lissner.wac.ohio-state.edu (140.254.67.70)
+Host is up (0.037s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.67.194
+Host is up (0.0099s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for fw1-dmz.cob.ohio-state.edu (140.254.68.2)
+Host is up (0.011s latency).
+Not shown: 1 closed port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for fw2-dmz.cob.ohio-state.edu (140.254.68.3)
+Host is up (0.011s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for perf.net.ohio-state.edu (140.254.68.10)
+Host is up (0.027s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.68.18
+Host is up (0.094s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.68.20
+Host is up (0.077s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.68.21
+Host is up (0.077s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for vpn.ud.ohio-state.edu (140.254.68.59)
+Host is up (0.014s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.68.60
+Host is up (0.038s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.68.106
+Host is up (0.011s latency).
+Not shown: 1 closed port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for 140.254.69.82
+Host is up (0.017s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for 140.254.69.108
+Host is up (0.010s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for vpn.osumc.edu (140.254.70.132)
+Host is up (0.0076s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for vpn3.osumc.edu (140.254.70.135)
+Host is up (0.010s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for vpn4.osumc.edu (140.254.70.136)
+Host is up (0.013s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for fod-basap02b.busfin.ohio-state.edu (140.254.72.102)
+Host is up (0.011s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for fod-deltaweb.busfin.osu.edu (140.254.72.104)
+Host is up (0.052s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for fod-basap03.busfin.osu.edu (140.254.72.106)
+Host is up (0.025s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for newremote.studentaffairs.ohio-state.edu (140.254.72.195)
+Host is up (0.027s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for tctest-vpn.net.ohio-state.edu (140.254.73.11)
+Host is up (0.027s latency).
+Not shown: 1 closed port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for 140.254.73.131
+Host is up (0.035s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for radimres105.med.ohio-state.edu (140.254.73.200)
+Host is up (0.022s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for radimres149.med.ohio-state.edu (140.254.73.248)
+Host is up (0.027s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.76.66
+Host is up (0.031s latency).
+Not shown: 1 closed port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for vpntest1.osumc.edu (140.254.76.144)
+Host is up (0.027s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for vpntest2.osumc.edu (140.254.76.145)
+Host is up (0.025s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for 140.254.77.36
+Host is up (0.015s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.77.39
+Host is up (0.018s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.77.40
+Host is up (0.015s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for astroutils.astronomy.ohio-state.edu (140.254.78.3)
+Host is up (0.020s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for cassini.mps.ohio-state.edu (140.254.78.20)
+Host is up (0.015s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for dhcp84-132.ag.ohio-state.edu (140.254.84.132)
+Host is up (0.034s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for www.hcs.ohio-state.edu (140.254.84.200)
+Host is up (0.039s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for www2.hcs.ohio-state.edu (140.254.84.202)
+Host is up (0.035s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for www3.hcs.ohio-state.edu (140.254.84.203)
+Host is up (0.019s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for www4.hcs.ohio-state.edu (140.254.84.205)
+Host is up (0.024s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for www8.hcs.ohio-state.edu (140.254.84.207)
+Host is up (0.022s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for static84-215.ag.ohio-state.edu (140.254.84.215)
+Host is up (0.024s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for epro.faes.ohio-state.edu (140.254.85.5)
+Host is up (0.016s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for viewfinity.faes.ohio-state.edu (140.254.85.7)
+Host is up (0.021s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for cc-rpm-vsvr1.cfaes.it.osu.edu (140.254.85.30)
+Host is up (0.050s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for cc-crl-vsvr1.cfaes.it.osu.edu (140.254.85.31)
+Host is up (0.020s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for cc-ras-vsvr1.cfaes.it.osu.edu (140.254.85.40)
+Host is up (0.011s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for cc-ras-vsvr1.cfaes.it.osu.edu (140.254.85.41)
+Host is up (0.011s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for webde1.cfaes.ohio-state.edu (140.254.85.42)
+Host is up (0.025s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for hcsintranet.osu.edu (140.254.85.45)
+Host is up (0.020s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for production.cfaes.ohio-state.edu (140.254.85.51)
+Host is up (0.022s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for webde1-dev.cfaes.ohio-state.edu (140.254.85.52)
+Host is up (0.030s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for landesk.cfaes.ohio-state.edu (140.254.85.57)
+Host is up (0.022s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for ts1.faes.ohio-state.edu (140.254.85.71)
+Host is up (0.0039s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for 140.254.85.72
+Host is up (0.0039s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for wsus.cfaes.ohio-state.edu (140.254.85.80)
+Host is up (0.025s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for mssqle.cfaes.ohio-state.edu (140.254.85.192)
+Host is up (0.0038s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for web2.cfaes.ohio-state.edu (140.254.85.220)
+Host is up (0.025s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for spectrum.cfaes.ohio-state.edu (140.254.85.223)
+Host is up (0.020s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for web.cfaes.ohio-state.edu (140.254.85.224)
+Host is up (0.019s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for cc-casper-vsvr1.cfaes.ohio-state.edu (140.254.85.226)
+Host is up (0.020s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for vpn.cfaes.osu.edu (140.254.85.230)
+Host is up (0.022s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for support.ag.ohio-state.edu (140.254.85.235)
+Host is up (0.018s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for helpdesk.cfaes.ohio-state.edu (140.254.85.245)
+Host is up (0.022s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for relay.cfaes.ohio-state.edu (140.254.85.248)
+Host is up (0.024s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for erp-icamb.erp.ohio-state.edu (140.254.87.73)
+Host is up (0.052s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for cio-krc-lsfe01.osuad.osu.edu (140.254.87.79)
+Host is up (0.017s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for cio-krc-lsfe02.osuad.osu.edu (140.254.87.80)
+Host is up (0.019s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for erp-manage.itprod.ohio-state.edu (140.254.87.83)
+Host is up (0.022s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for erp04vm.itprod.ohio-state.edu (140.254.87.87)
+Host is up (0.026s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for krc-registrar.itprod.ohio-state.edu (140.254.87.105)
+Host is up (0.018s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for erp05vm.itprod.ohio-state.edu (140.254.87.108)
+Host is up (0.021s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for busweb01.itprod.ohio-state.edu (140.254.87.111)
+Host is up (0.022s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for cio-krc-lsfe03.osuad.osu.edu (140.254.87.113)
+Host is up (0.063s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for cio-krc-lsfe04.osuad.osu.edu (140.254.87.114)
+Host is up (0.061s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for cio-krc-lsfe05.osuad.osu.edu (140.254.87.119)
+Host is up (0.017s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for lib-css1ezp-v01.lib.ohio-state.edu (140.254.87.149)
+Host is up (0.037s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for lib-lispsie-p01.lib.ohio-state.edu (140.254.87.159)
+Host is up (0.022s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for lib-wit1web-v01.lib.ohio-state.edu (140.254.87.162)
+Host is up (0.061s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for lib-wit2web-v01.lib.ohio-state.edu (140.254.87.176)
+Host is up (0.059s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for lib-wit3web-v01.lib.ohio-state.edu (140.254.87.179)
+Host is up (0.022s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for lib-css1var-v02.lib.ohio-state.edu (140.254.87.182)
+Host is up (0.023s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for lib-css1var-v03.lib.ohio-state.edu (140.254.87.183)
+Host is up (0.046s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for access.optometry.osu.edu (140.254.88.100)
+Host is up (0.014s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for 140.254.89.13
+Host is up (0.031s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for smtp.optometry.ohio-state.edu (140.254.89.17)
+Host is up (0.049s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for apps.optometry.osu.edu (140.254.89.64)
+Host is up (0.027s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for streaming.optometry.osu.edu (140.254.89.76)
+Host is up (0.020s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for ldcsa.optometry.osu.edu (140.254.89.88)
+Host is up (0.043s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for docs.math.osu.edu (140.254.92.7)
+Host is up (0.030s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for toolbox.math.osu.edu (140.254.92.9)
+Host is up (0.027s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for grad.math.osu.edu (140.254.92.17)
+Host is up (0.060s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for lists.math.osu.edu (140.254.92.25)
+Host is up (0.028s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for web.math.osu.edu (140.254.92.32)
+Host is up (0.059s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for jds.math.osu.edu (140.254.92.39)
+Host is up (0.049s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for SCCM-MTH1.asc.ohio-state.edu (140.254.92.42)
+Host is up (0.045s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for groups.math.osu.edu (140.254.92.50)
+Host is up (0.036s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for tutortrac.math.osu.edu (140.254.92.52)
+Host is up (0.021s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for people.math.osu.edu (140.254.92.165)
+Host is up (0.029s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for poseidon.math.osu.edu (140.254.92.166)
+Host is up (0.028s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for ymc.math.osu.edu (140.254.92.170)
+Host is up (0.030s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for psc.psy.ohio-state.edu (140.254.96.11)
+Host is up (0.018s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for bln.psy.ohio-state.edu (140.254.96.18)
+Host is up (0.0079s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for ccbbi.psy.ohio-state.edu (140.254.96.19)
+Host is up (0.0068s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for mvpa.psy.ohio-state.edu (140.254.96.21)
+Host is up (0.022s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for star.psy.ohio-state.edu (140.254.96.41)
+Host is up (0.011s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for caide.psy.ohio-state.edu (140.254.96.49)
+Host is up (0.021s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for maigret.psy.ohio-state.edu (140.254.96.64)
+Host is up (0.033s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for alumni.psy.ohio-state.edu (140.254.96.92)
+Host is up (0.0097s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for mail.psy.ohio-state.edu (140.254.96.93)
+Host is up (0.0080s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for www2.psy.ohio-state.edu (140.254.96.97)
+Host is up (0.0054s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for www.psy.ohio-state.edu (140.254.96.99)
+Host is up (0.036s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for vic.psy.ohio-state.edu (140.254.96.124)
+Host is up (0.0057s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for cog.psy.ohio-state.edu (140.254.96.129)
+Host is up (0.017s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for faculty.psy.ohio-state.edu (140.254.96.130)
+Host is up (0.016s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for classes.psy.ohio-state.edu (140.254.96.131)
+Host is up (0.014s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for undergrad.psy.ohio-state.edu (140.254.96.134)
+Host is up (0.025s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for rep.psy.ohio-state.edu (140.254.96.245)
+Host is up (0.039s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for labs.psy.ohio-state.edu (140.254.97.50)
+Host is up (0.031s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for lpl.psy.ohio-state.edu (140.254.97.51)
+Host is up (0.030s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for dlcl.psy.ohio-state.edu (140.254.97.52)
+Host is up (0.029s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for anxiety.psy.ohio-state.edu (140.254.97.53)
+Host is up (0.028s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for uncertainself.psy.ohio-state.edu (140.254.97.63)
+Host is up (0.017s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for memory.psy.ohio-state.edu (140.254.97.65)
+Host is up (0.020s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for lobes.psy.ohio-state.edu (140.254.97.66)
+Host is up (0.019s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for neurocomplexity.psy.ohio-state.edu (140.254.97.68)
+Host is up (0.050s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for bls.psy.ohio-state.edu (140.254.97.69)
+Host is up (0.049s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for wrrp.psy.ohio-state.edu (140.254.97.70)
+Host is up (0.048s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for cogdev.psy.ohio-state.edu (140.254.97.71)
+Host is up (0.046s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for paslab.psy.ohio-state.edu (140.254.97.72)
+Host is up (0.045s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for orion.psy.ohio-state.edu (140.254.97.133)
+Host is up (0.031s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for mall.psy.ohio-state.edu (140.254.97.151)
+Host is up (0.086s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for stressandimmunity.psy.ohio-state.edu (140.254.100.51)
+Host is up (0.037s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for cancertohealth.psy.ohio-state.edu (140.254.100.52)
+Host is up (0.024s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for sv12.psy.ohio-state.edu (140.254.100.62)
+Host is up (0.020s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for tpb.psy.ohio-state.edu (140.254.100.67)
+Host is up (0.011s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for freud.psy.ohio-state.edu (140.254.100.70)
+Host is up (0.0097s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.102.151
+Host is up (0.0064s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for pacs.psy.ohio-state.edu (140.254.103.205)
+Host is up (0.040s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for spacing.psy.ohio-state.edu (140.254.103.227)
+Host is up (0.014s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for 140.254.108.120
+Host is up (0.021s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for WH-prdosuedu128-VIP.it.ohio-state.edu (140.254.112.128)
+Host is up (0.053s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for WH-prdosuedu129-VIP.it.ohio-state.edu (140.254.112.129)
+Host is up (0.064s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for WH-prdosuedu130-VIP.it.ohio-state.edu (140.254.112.130)
+Host is up (0.026s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for WH-prdosuedu131-VIP.it.ohio-state.edu (140.254.112.131)
+Host is up (0.062s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for WH-prdosuedu132-VIP.it.ohio-state.edu (140.254.112.132)
+Host is up (0.050s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for WH-prdosuedu133-VIP.it.ohio-state.edu (140.254.112.133)
+Host is up (0.021s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for socc-dc-pulse.net.ohio-state.edu (140.254.112.134)
+Host is up (0.048s latency).
+Not shown: 1 closed port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for LB-VIP140-254-112-138.it.ohio-state.edu (140.254.112.138)
+Host is up (0.047s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for LB-VIP140-254-112-139.it.ohio-state.edu (140.254.112.139)
+Host is up (0.045s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for LB-VIP140-254-112-140.it.ohio-state.edu (140.254.112.140)
+Host is up (0.032s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for cppm-vip1.net.ohio-state.edu (140.254.112.193)
+Host is up (0.031s latency).
+Not shown: 1 closed port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for erequest.it.ohio-state.edu (140.254.112.196)
+Host is up (0.045s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for etravel.it.ohio-state.edu (140.254.112.199)
+Host is up (0.041s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for selfservetest.it.ohio-state.edu (140.254.112.200)
+Host is up (0.021s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for statusvip.it.ohio-state.edu (140.254.112.203)
+Host is up (0.019s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for brenda.webtest.osu.edu (140.254.112.204)
+Host is up (0.0096s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for curriculum.it.ohio-state.edu (140.254.112.205)
+Host is up (0.015s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for sims.it.ohio-state.edu (140.254.112.208)
+Host is up (0.012s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for hrselfserve.it.ohio-state.edu (140.254.112.209)
+Host is up (0.011s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for whprdosuedu.it.ohio-state.edu (140.254.112.210)
+Host is up (0.010s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for erpcs.erp.ohio-state.edu (140.254.112.211)
+Host is up (0.083s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for psfthcprd.erp.ohio-state.edu (140.254.112.213)
+Host is up (0.083s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for whwebadmin.it.ohio-state.edu (140.254.112.214)
+Host is up (0.0076s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.112.215
+Host is up (0.0066s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for pstestit.it.ohio-state.edu (140.254.112.216)
+Host is up (0.083s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for mfarsa-vip.it.ohio-state.edu (140.254.112.217)
+Host is up (0.015s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for psprdosuedu.erp.ohio-state.edu (140.254.112.218)
+Host is up (0.083s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for erpcs80.erp.ohio-state.edu (140.254.112.220)
+Host is up (0.0077s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for oasissharedwebsvcs.it.ohio-state.edu (140.254.112.222)
+Host is up (0.078s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for degreeaudittst.it.ohio-state.edu (140.254.112.227)
+Host is up (0.078s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for columbusneighborhood-vip.it.ohio-state.edu (140.254.112.228)
+Host is up (0.075s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for webhostingosusls_it-vip.it.ohio-state.edu (140.254.112.231)
+Host is up (0.070s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for gradforms-ext.it.ohio-state.edu (140.254.112.235)
+Host is up (0.040s latency).
+Not shown: 1 closed port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for gradforms-qa3-ext.erp.ohio-state.edu (140.254.112.237)
+Host is up (0.074s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for gradforms-qa2-ext.erp.ohio-state.edu (140.254.112.239)
+Host is up (0.074s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for gradforms.it.ohio-state.edu (140.254.112.240)
+Host is up (0.013s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for liststst.osu.edu (140.254.112.241)
+Host is up (0.012s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for workosu.it.ohio-state.edu (140.254.112.242)
+Host is up (0.074s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for simstst.it.ohio-state.edu (140.254.112.243)
+Host is up (0.015s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for sponsorships.it.ohio-state.edu (140.254.112.244)
+Host is up (0.092s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for orgchart.osu.edu (140.254.112.246)
+Host is up (0.051s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for alumnivip.it.ohio-state.edu (140.254.112.247)
+Host is up (0.050s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for chatosueduVIP.it.ohio-state.edu (140.254.112.248)
+Host is up (0.049s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.112.249
+Host is up (0.041s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for listsprdVIP.it.ohio-state.edu (140.254.112.250)
+Host is up (0.039s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for alpha-testVIP.it.ohio-state.edu (140.254.112.251)
+Host is up (0.021s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for tc-dc2-vl858.net.ohio-state.edu (140.254.112.253)
+Host is up (0.019s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for lists.service.ohio-state.edu (140.254.112.254)
+Host is up (0.017s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.113.42
+Host is up (0.024s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for rsaauthdev.it.ohio-state.edu (140.254.113.163)
+Host is up (0.051s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for rsaauth1.it.ohio-state.edu (140.254.113.166)
+Host is up (0.0086s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for rsaauth2.it.ohio-state.edu (140.254.113.167)
+Host is up (0.0086s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for kauth4.it.ohio-state.edu (140.254.113.171)
+Host is up (0.018s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for bucki.bmi.ohio-state.edu (140.254.116.80)
+Host is up (0.0076s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for owens.bmi.ohio-state.edu (140.254.116.82)
+Host is up (0.0090s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for mrsnp.bmi.ohio-state.edu (140.254.116.101)
+Host is up (0.0086s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for theadvisor.bmi.ohio-state.edu (140.254.116.102)
+Host is up (0.0088s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for osc-mgmt.bmi.ohio-state.edu (140.254.116.126)
+Host is up (0.039s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.116.193
+Host is up (0.036s latency).
+Not shown: 1 closed port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for www.esl.ohio-state.edu (140.254.116.200)
+Host is up (0.051s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for insight.tk20.ehe.osu.edu (140.254.116.217)
+Host is up (0.052s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for dhcp117-150.ag.ohio-state.edu (140.254.117.150)
+Host is up (0.059s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for bomgar.asc.ohio-state.edu (140.254.118.2)
+Host is up (0.019s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for per.mps.ohio-state.edu (140.254.118.3)
+Host is up (0.016s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for capswebserv.asc.ohio-state.edu (140.254.118.4)
+Host is up (0.072s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.118.5
+Host is up (0.025s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.118.6
+Host is up (0.032s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.118.7
+Host is up (0.042s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.118.11
+Host is up (0.045s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.118.12
+Host is up (0.029s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for ximera-1.asc.ohio-state.edu (140.254.118.13)
+Host is up (0.027s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.118.17
+Host is up (0.026s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for research.ling.ohio-state.edu (140.254.118.18)
+Host is up (0.031s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for prometheus.mps.ohio-state.edu (140.254.118.24)
+Host is up (0.022s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for dnalims.asc.ohio-state.edu (140.254.118.25)
+Host is up (0.024s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for essentialskills.mps.ohio-state.edu (140.254.118.28)
+Host is up (0.017s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for advisingconnect1-p.asc.ohio-state.edu (140.254.118.33)
+Host is up (0.041s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for advisingconnect-s.asc.ohio-state.edu (140.254.118.34)
+Host is up (0.044s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for clover.asc.ohio-state.edu (140.254.118.35)
+Host is up (0.043s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for asccommatwork-s.asc.ohio-state.edu (140.254.118.36)
+Host is up (0.038s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for asccommatwork1-p.asc.ohio-state.edu (140.254.118.37)
+Host is up (0.034s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for appdevgrants1-p.asc.ohio-state.edu (140.254.118.38)
+Host is up (0.032s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for appdevgrants-s.asc.ohio-state.edu (140.254.118.39)
+Host is up (0.029s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for gradcentral-s.asc.ohio-state.edu (140.254.118.40)
+Host is up (0.026s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for write-s.asc.ohio-state.edu (140.254.118.41)
+Host is up (0.023s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for commapps-s.asc.ohio-state.edu (140.254.118.42)
+Host is up (0.020s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for bioapp-s.asc.ohio-state.edu (140.254.118.43)
+Host is up (0.046s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for rfc-s.asc.ohio-state.edu (140.254.118.44)
+Host is up (0.021s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for opic-s.asc.ohio-state.edu (140.254.118.46)
+Host is up (0.039s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for internships-s.asc.ohio-state.edu (140.254.118.47)
+Host is up (0.037s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for commapps1-p.asc.ohio-state.edu (140.254.118.52)
+Host is up (0.027s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for struxureware.asc.ohio-state.edu (140.254.118.58)
+Host is up (0.015s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for rfc1-p.asc.ohio-state.edu (140.254.118.59)
+Host is up (0.016s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for asc-if-console.asc.ohio-state.edu (140.254.118.60)
+Host is up (0.061s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for bioapp1-p.asc.ohio-state.edu (140.254.118.62)
+Host is up (0.057s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for piwik.asc.ohio-state.edu (140.254.118.64)
+Host is up (0.049s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for xibo1-p.asc.ohio-state.edu (140.254.118.67)
+Host is up (0.043s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.118.68
+Host is up (0.022s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for cllc-vm.asc.ohio-state.edu (140.254.118.71)
+Host is up (0.016s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for cjp-s.asc.ohio-state.edu (140.254.118.76)
+Host is up (0.0096s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for web.shs.ohio-state.edu (140.254.118.77)
+Host is up (0.0096s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for aesculus1-p.asc.ohio-state.edu (140.254.118.78)
+Host is up (0.044s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for aesculus-s.asc.ohio-state.edu (140.254.118.79)
+Host is up (0.042s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for web.econ.ohio-state.edu (140.254.118.82)
+Host is up (0.021s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.118.83
+Host is up (0.019s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for cjp1-p.asc.ohio-state.edu (140.254.118.85)
+Host is up (0.014s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for internships1-p.asc.ohio-state.edu (140.254.118.87)
+Host is up (0.022s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.118.91
+Host is up (0.013s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for wucarip-s.asc.ohio-state.edu (140.254.118.93)
+Host is up (0.046s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.118.98
+Host is up (0.019s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for per-dev-web.mps.ohio-state.edu (140.254.118.100)
+Host is up (0.037s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.118.103
+Host is up (0.039s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.118.105
+Host is up (0.061s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for abrc-fms.asc.ohio-state.edu (140.254.118.106)
+Host is up (0.059s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.118.108
+Host is up (0.055s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.118.112
+Host is up (0.028s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for gw.medctr.ohio-state.edu (140.254.120.26)
+Host is up (0.018s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for public-checkpoint.osumc.edu (140.254.120.27)
+Host is up (0.019s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.120.29
+Host is up (0.050s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for gendev10.medctr.ohio-state.edu (140.254.120.30)
+Host is up (0.040s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.120.33
+Host is up (0.032s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.120.34
+Host is up (0.042s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.120.57
+Host is up (0.035s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for ucc-xwaye-vp01.osumc.edu (140.254.120.206)
+Host is up (0.016s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for ucc-xwaye-vp02.osumc.edu (140.254.120.207)
+Host is up (0.016s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for napoleon-1.bmi.osumc.edu (140.254.126.4)
+Host is up (0.030s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for bmi-web-vp01.osumc.edu (140.254.126.8)
+Host is up (0.023s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for qp-hcl.bmi.osumc.edu (140.254.126.11)
+Host is up (0.028s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for software.bmi.osumc.edu (140.254.126.15)
+Host is up (0.026s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for bmi-dept-vp01.bmi.osumc.edu (140.254.126.19)
+Host is up (0.078s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for people.bmi.osumc.edu (140.254.126.23)
+Host is up (0.023s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for hairycell.bmi.osumc.edu (140.254.126.27)
+Host is up (0.054s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for riq.bmi.osumc.edu (140.254.126.29)
+Host is up (0.051s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.126.31
+Host is up (0.047s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for labs.bmi.osumc.edu (140.254.126.32)
+Host is up (0.049s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for bmi-mock-vp01.bmi.osumc.edu (140.254.126.35)
+Host is up (0.040s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for cagrid.citih.osumc.edu (140.254.126.37)
+Host is up (0.036s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.126.40
+Host is up (0.038s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for bmi-hclds-vd02.osumc.edu (140.254.126.41)
+Host is up (0.039s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for hcl-qp-dev.bmi.osumc.edu (140.254.126.42)
+Host is up (0.020s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for hcl-ds-demo.bmi.osumc.edu (140.254.126.44)
+Host is up (0.017s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for hcl-ds-dev.bmi.osumc.edu (140.254.126.45)
+Host is up (0.016s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for registries-ds-dev.bmi.osumc.edu (140.254.126.50)
+Host is up (0.012s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for registries-dev.bmi.osumc.edu (140.254.126.51)
+Host is up (0.011s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for bmi-redcapcontent-vp01.osumc.edu (140.254.126.61)
+Host is up (0.034s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for corr.bmi.osumc.edu (140.254.126.63)
+Host is up (0.031s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for sftp.bmi.osumc.edu (140.254.126.67)
+Host is up (0.027s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for hcl-ds-vp02.bmi.osumc.edu (140.254.126.69)
+Host is up (0.025s latency).
+Not shown: 1 closed port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for dante.bmi.osumc.edu (140.254.126.70)
+Host is up (0.029s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for kcportal-dev.bmi.osumc.edu (140.254.126.74)
+Host is up (0.019s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for bmi-umls-vp01.osumc.edu (140.254.126.78)
+Host is up (0.017s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for leukemia-spore.bmi.osumc.edu (140.254.126.97)
+Host is up (0.040s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for svn.bmi.osumc.edu (140.254.126.107)
+Host is up (0.025s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for bmi-git-vp01.osumc.edu (140.254.126.113)
+Host is up (0.031s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for wiki.bmi.osumc.edu (140.254.126.114)
+Host is up (0.017s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for repo.bmi.osumc.edu (140.254.126.115)
+Host is up (0.056s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for citih-kctools.osumc.edu (140.254.126.122)
+Host is up (0.047s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for bmi-genweb-vp01.bmi.osumc.edu (140.254.126.126)
+Host is up (0.026s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for inventory.bmi.osumc.edu (140.254.126.130)
+Host is up (0.034s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for histology.osumc.edu (140.254.126.135)
+Host is up (0.031s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for jira.bmi.osumc.edu (140.254.126.143)
+Host is up (0.096s latency).
+Not shown: 1 closed port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for studysearchtest.bmi.osumc.edu (140.254.126.146)
+Host is up (0.058s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for dashboard.bmi.osumc.edu (140.254.126.150)
+Host is up (0.023s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for corrdev.bmi.osumc.edu (140.254.126.152)
+Host is up (0.029s latency).
+Not shown: 1 closed port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for mdr-dev.openmdr.org (140.254.126.167)
+Host is up (0.029s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for mdr.openmdr.org (140.254.126.168)
+Host is up (0.023s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for openmdr.org (140.254.126.169)
+Host is up (0.026s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for microrna.osumc.edu (140.254.126.181)
+Host is up (0.023s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for vpdb-vt01.osumc.edu (140.254.126.182)
+Host is up (0.056s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for usability.bmi.osumc.edu (140.254.126.192)
+Host is up (0.024s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for studysearch-prod.bmi.osumc.edu (140.254.126.194)
+Host is up (0.023s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for services.bmi.osumc.edu (140.254.126.195)
+Host is up (0.021s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for products.bmi.osumc.edu (140.254.126.196)
+Host is up (0.020s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.126.200
+Host is up (0.022s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for uniter-bp01.bmi.osumc.edu (140.254.126.214)
+Host is up (0.035s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for git.bmi.osumc.edu (140.254.126.215)
+Host is up (0.033s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for bmi-netlab-bp01.bmi.osumc.edu (140.254.126.235)
+Host is up (0.030s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for timecat.bmi.osumc.edu (140.254.126.242)
+Host is up (0.029s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for bmi-cielo-vd01.osumc.edu (140.254.126.243)
+Host is up (0.028s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for bmi-cielo-vp01.osumc.edu (140.254.126.244)
+Host is up (0.031s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for cbmarker.bmi.osumc.edu (140.254.126.245)
+Host is up (0.030s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for oggweb-vp03.osumc.edu (140.254.126.246)
+Host is up (0.100s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for oggweb-vp04.osumc.edu (140.254.126.247)
+Host is up (0.043s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for oggdb-vp01.med.ohio-state.edu (140.254.126.250)
+Host is up (0.029s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for oggweb-vp02.med.ohio-state.edu (140.254.126.252)
+Host is up (0.068s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for ns-ext125.osumc.edu (140.254.127.10)
+Host is up (0.035s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for ns-ext126.osumc.edu (140.254.127.11)
+Host is up (0.034s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for ns-ext127.osumc.edu (140.254.127.18)
+Host is up (0.026s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for ns-ext128.osumc.edu (140.254.127.19)
+Host is up (0.025s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for ns-ext129.osumc.edu (140.254.127.20)
+Host is up (0.024s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for ns-ext130.osumc.edu (140.254.127.21)
+Host is up (0.023s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for ns-ext131.osumc.edu (140.254.127.22)
+Host is up (0.022s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for ns-ext132.osumc.edu (140.254.127.23)
+Host is up (0.011s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for ns-ext133.osumc.edu (140.254.127.24)
+Host is up (0.010s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for xtendmes-vp04.osumc.edu (140.254.127.25)
+Host is up (0.0034s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for ns-ext139.osumc.edu (140.254.127.26)
+Host is up (0.017s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for pfmx01.osumc.edu (140.254.127.28)
+Host is up (0.0053s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.127.29
+Host is up (0.024s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.127.31
+Host is up (0.015s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.127.32
+Host is up (0.013s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for ns-ext136.osumc.edu (140.254.127.33)
+Host is up (0.015s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.127.34
+Host is up (0.013s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for clinapps-qa1.medctr.ohio-state.edu (140.254.127.35)
+Host is up (0.046s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for ns-ext137.osumc.edu (140.254.127.36)
+Host is up (0.044s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for netillatest.medctr.ohio-state.edu (140.254.127.39)
+Host is up (0.016s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for healthsystem.medctr.ohio-state.edu (140.254.127.40)
+Host is up (0.038s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for ns-ext1.osumc.edu (140.254.127.43)
+Host is up (0.035s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for web-ext3.osumc.edu (140.254.127.46)
+Host is up (0.031s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for web-ext18.osumc.edu (140.254.127.47)
+Host is up (0.030s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for tweb-ext1.osumc.edu (140.254.127.48)
+Host is up (0.029s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for msowa01.medctr.ohio-state.edu (140.254.127.50)
+Host is up (0.027s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.127.51
+Host is up (0.025s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for ccc-rhweb-vp01.osumc.edu (140.254.127.52)
+Host is up (0.027s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for dmzagent.osumc.edu (140.254.127.54)
+Host is up (0.024s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for mobilesecurity.osumc.edu (140.254.127.55)
+Host is up (0.013s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.127.56
+Host is up (0.016s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for web-ext30.osumc.edu (140.254.127.61)
+Host is up (0.018s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for grc-shiny-bp01.osumc.edu (140.254.127.63)
+Host is up (0.030s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.127.65
+Host is up (0.024s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for adfs.osumc.edu (140.254.127.70)
+Host is up (0.012s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for ns-ext134.osumc.edu (140.254.127.71)
+Host is up (0.024s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for ns-ext124.osumc.edu (140.254.127.80)
+Host is up (0.026s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for ns-ext123.osumc.edu (140.254.127.81)
+Host is up (0.025s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for web-ext4.osumc.edu (140.254.127.86)
+Host is up (0.019s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for web-ext6.osumc.edu (140.254.127.87)
+Host is up (0.018s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for ns-ext142.osumc.edu (140.254.127.90)
+Host is up (0.022s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for grc-sasdmz-p01.osumc.edu (140.254.127.91)
+Host is up (0.0039s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for ns-ext135.osumc.edu (140.254.127.96)
+Host is up (0.045s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for web-ext25.osumc.edu (140.254.127.100)
+Host is up (0.040s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for access.osumc.edu (140.254.127.102)
+Host is up (0.038s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for iaccess.osumc.edu (140.254.127.103)
+Host is up (0.036s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for sisweb.medctr.ohio-state.edu (140.254.127.105)
+Host is up (0.034s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for accesslearn.osumc.edu (140.254.127.106)
+Host is up (0.033s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for web-ext24.osumc.edu (140.254.127.111)
+Host is up (0.027s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for web-ext36.osumc.edu (140.254.127.113)
+Host is up (0.024s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for web-ext37.osumc.edu (140.254.127.114)
+Host is up (0.023s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for osumc.edu (140.254.127.117)
+Host is up (0.020s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for ns-ext120.osumc.edu (140.254.127.118)
+Host is up (0.019s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for ns-ext121.osumc.edu (140.254.127.119)
+Host is up (0.018s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for ns-ext122.osumc.edu (140.254.127.120)
+Host is up (0.033s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for web-ext17.osumc.edu (140.254.127.122)
+Host is up (0.017s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for cseac.osumc.edu (140.254.127.123)
+Host is up (0.010s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for ns-ext141.osumc.edu (140.254.127.124)
+Host is up (0.048s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for web-ext35.osumc.edu (140.254.127.125)
+Host is up (0.015s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for secureemail.osumc.edu (140.254.127.128)
+Host is up (0.080s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.127.131
+Host is up (0.079s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.127.132
+Host is up (0.0099s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for isa-test.osumc.edu (140.254.127.138)
+Host is up (0.0055s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for web-ext5.osumc.edu (140.254.127.139)
+Host is up (0.10s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.127.140
+Host is up (0.094s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for web-ext19.osumc.edu (140.254.127.141)
+Host is up (0.094s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for web-ext20.osumc.edu (140.254.127.142)
+Host is up (0.096s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for web-ext21.osumc.edu (140.254.127.143)
+Host is up (0.094s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for ext-virt3.osumc.edu (140.254.127.146)
+Host is up (0.095s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for web-ext31.osumc.edu (140.254.127.147)
+Host is up (0.088s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for grcmapstemp.osu.edu (140.254.127.148)
+Host is up (0.0099s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for ns-ext140.osumc.edu (140.254.127.149)
+Host is up (0.012s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for ext-virt2.osumc.edu (140.254.127.153)
+Host is up (0.074s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.127.155
+Host is up (0.071s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for ext-virt1.osumc.edu (140.254.127.156)
+Host is up (0.073s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for cmif.osumc.edu (140.254.127.159)
+Host is up (0.063s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for web-ext32.osumc.edu (140.254.127.161)
+Host is up (0.060s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for ns-ext2.osumc.edu (140.254.127.166)
+Host is up (0.052s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for web-ext1.osumc.edu (140.254.127.168)
+Host is up (0.053s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for web-ext22.osumc.edu (140.254.127.169)
+Host is up (0.016s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for web-ext27.osumc.edu (140.254.127.173)
+Host is up (0.037s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for web-ext10.osumc.edu (140.254.127.176)
+Host is up (0.030s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for web-ext11.osumc.edu (140.254.127.177)
+Host is up (0.027s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.127.183
+Host is up (0.017s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.127.184
+Host is up (0.016s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for ns-ext143.osumc.edu (140.254.127.185)
+Host is up (0.015s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.127.186
+Host is up (0.036s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for careeverywheretest.osumc.edu (140.254.127.188)
+Host is up (0.11s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.127.189
+Host is up (0.10s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for bmi-octc-vp01.osumc.edu (140.254.127.190)
+Host is up (0.048s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.127.191
+Host is up (0.046s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.127.195
+Host is up (0.041s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.127.196
+Host is up (0.039s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for web-ext2.osumc.edu (140.254.127.201)
+Host is up (0.019s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for 140.254.127.202
+Host is up (0.12s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for web-ext7.osumc.edu (140.254.127.206)
+Host is up (0.13s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.127.207
+Host is up (0.12s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.127.212
+Host is up (0.12s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for neurology.med.ohio-state.edu (140.254.127.213)
+Host is up (0.12s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for sagetest.med.ohio-state.edu (140.254.127.215)
+Host is up (0.024s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for ns-ext101.osumc.edu (140.254.127.218)
+Host is up (0.016s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for ns-ext102.osumc.edu (140.254.127.219)
+Host is up (0.026s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for auth1.osumc.edu (140.254.127.220)
+Host is up (0.0055s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for auth2.osumc.edu (140.254.127.222)
+Host is up (0.012s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for osuhpc4c1.medctr.ohio-state.edu (140.254.127.223)
+Host is up (0.022s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for web-ext8.osumc.edu (140.254.127.224)
+Host is up (0.021s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for auth3.osumc.edu (140.254.127.226)
+Host is up (0.0065s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for epicsfd-vt01.osumc.edu (140.254.127.227)
+Host is up (0.0064s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for ns-ext138.osumc.edu (140.254.127.229)
+Host is up (0.010s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.127.230
+Host is up (0.0090s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.127.231
+Host is up (0.012s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.127.232
+Host is up (0.011s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for greyhound.osumc.edu (140.254.127.233)
+Host is up (0.022s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for web-ext9.osumc.edu (140.254.127.234)
+Host is up (0.021s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for web-ext12.osumc.edu (140.254.127.235)
+Host is up (0.011s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for web-ext14.medctr.ohio-state.edu (140.254.127.236)
+Host is up (0.014s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for web-ext33.osumc.edu (140.254.127.237)
+Host is up (0.049s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for eei-sepdmz-vp01.osumc.edu (140.254.127.238)
+Host is up (0.0080s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for eei-ardmz-vp01.osumc.edu (140.254.127.239)
+Host is up (0.014s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for 140.254.127.240
+Host is up (0.014s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for 140.254.127.241
+Host is up (0.0046s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for web-ext16.osumc.edu (140.254.127.242)
+Host is up (0.037s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for cseac-sim.osumc.edu (140.254.127.243)
+Host is up (0.035s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for web-ext13.osumc.edu (140.254.127.249)
+Host is up (0.027s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for ns-ext100.osumc.edu (140.254.127.251)
+Host is up (0.024s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for web-ext29.osumc.edu (140.254.127.252)
+Host is up (0.023s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for ns-ext104.osumc.edu (140.254.127.253)
+Host is up (0.021s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.135.27
+Host is up (0.030s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.135.28
+Host is up (0.039s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for bc032.sociology.ohio-state.edu (140.254.144.32)
+Host is up (0.027s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for ts044.sociology.ohio-state.edu (140.254.144.44)
+Host is up (0.031s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for intra.sociology.ohio-state.edu (140.254.146.14)
+Host is up (0.070s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.156.15
+Host is up (0.31s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.156.16
+Host is up (0.31s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.156.17
+Host is up (0.31s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.156.18
+Host is up (0.31s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.156.19
+Host is up (0.017s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for NPI282066.asc.ohio-state.edu (140.254.156.26)
+Host is up (0.24s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for NPI3BD186.asc.ohio-state.edu (140.254.156.28)
+Host is up (0.24s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for AL300-Xerox5150.asc.ohio-state.edu (140.254.156.29)
+Host is up (0.24s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for AL300-HPLJ400color.asc.ohio-state.edu (140.254.156.30)
+Host is up (0.24s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for AL500d-HPLJ400color.asc.ohio-state.edu (140.254.156.31)
+Host is up (0.23s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for AL500d-XeroxWC5150.asc.ohio-state.edu (140.254.156.33)
+Host is up (0.24s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for AL220-HPLJP3015.asc.ohio-state.edu (140.254.156.34)
+Host is up (0.23s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for AL264-HPLJCP2025dn.asc.ohio-state.edu (140.254.156.36)
+Host is up (0.23s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for BRN001BA9E5E6A7.asc.ohio-state.edu (140.254.156.37)
+Host is up (0.23s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for NPI334EB3.asc.ohio-state.edu (140.254.156.39)
+Host is up (0.20s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for NPI3D1610.asc.ohio-state.edu (140.254.156.40)
+Host is up (0.22s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for AL344-Dell1720dn.asc.ohio-state.edu (140.254.156.41)
+Host is up (0.22s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for ET0021B7E05474.asc.ohio-state.edu (140.254.156.43)
+Host is up (0.22s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for XRX0000AA7C7C36.asc.ohio-state.edu (140.254.156.44)
+Host is up (0.22s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for AL346-HPLJP2055x.asc.ohio-state.edu (140.254.156.45)
+Host is up (0.21s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for NPI5DD204.asc.ohio-state.edu (140.254.156.47)
+Host is up (0.21s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for AL200-DellC1765NFColor.asc.ohio-state.edu (140.254.156.48)
+Host is up (0.016s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for NPIE87C10.asc.ohio-state.edu (140.254.156.49)
+Host is up (0.012s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for AL298-DellB2360dn.asc.ohio-state.edu (140.254.156.51)
+Host is up (0.16s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for axis-00408c7c576e.asc.ohio-state.edu (140.254.156.74)
+Host is up (0.11s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for nikon516-HP.asc.ohio-state.edu (140.254.156.115)
+Host is up (0.12s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.156.149
+Host is up (0.042s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for AL256-HPLJ400.asc.ohio-state.edu (140.254.156.180)
+Host is up (0.083s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.156.186
+Host is up (0.027s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.156.203
+Host is up (0.034s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for NPI32B277.asc.ohio-state.edu (140.254.156.207)
+Host is up (0.030s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.158.18
+Host is up (0.037s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.158.19
+Host is up (0.060s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.158.20
+Host is up (0.057s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.158.21
+Host is up (0.055s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.158.22
+Host is up (0.053s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for DELL3F5D93.asc.ohio-state.edu (140.254.158.26)
+Host is up (0.045s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for MCA96.asc.ohio-state.edu (140.254.158.27)
+Host is up (0.043s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for BI112-EpsonWP4530.asc.ohio-state.edu (140.254.158.28)
+Host is up (0.041s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for NPI7C47F2.asc.ohio-state.edu (140.254.158.29)
+Host is up (0.020s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for NPI209326.asc.ohio-state.edu (140.254.158.30)
+Host is up (0.018s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for NPIEAA353.asc.ohio-state.edu (140.254.158.31)
+Host is up (0.016s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for HP9E4EB8.asc.ohio-state.edu (140.254.158.32)
+Host is up (0.014s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for NPI909BB4.asc.ohio-state.edu (140.254.158.33)
+Host is up (0.012s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for DELL41DD71.asc.ohio-state.edu (140.254.158.34)
+Host is up (0.041s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for NPICECE64.asc.ohio-state.edu (140.254.158.36)
+Host is up (0.012s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for BI612-HPLJCP4025.asc.ohio-state.edu (140.254.158.37)
+Host is up (0.0047s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for BI656-HPLJP3015.asc.ohio-state.edu (140.254.158.39)
+Host is up (0.019s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for XRX9C934E54B1A9.asc.ohio-state.edu (140.254.158.40)
+Host is up (0.017s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for HP9209D6.asc.ohio-state.edu (140.254.158.42)
+Host is up (0.014s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for DELL417228.asc.ohio-state.edu (140.254.158.44)
+Host is up (0.036s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for NPI0844A5.asc.ohio-state.edu (140.254.158.45)
+Host is up (0.034s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for BI452a-Dell1710n.asc.ohio-state.edu (140.254.158.46)
+Host is up (0.032s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for serve.asc.ohio-state.edu (140.254.158.52)
+Host is up (0.015s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.158.74
+Host is up (0.023s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.158.75
+Host is up (0.027s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for BI609-CREST.asc.ohio-state.edu (140.254.158.130)
+Host is up (0.034s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.158.136
+Host is up (0.034s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.158.188
+Host is up (0.043s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.159.9
+Host is up (0.026s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.159.10
+Host is up (0.023s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.159.11
+Host is up (0.017s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.159.12
+Host is up (0.014s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for BRN001BA95FB930.asc.ohio-state.edu (140.254.159.26)
+Host is up (0.050s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for test-75875.asc.ohio-state.edu (140.254.159.27)
+Host is up (0.034s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for NPI95956B.asc.ohio-state.edu (140.254.159.28)
+Host is up (0.031s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for NPI32887D.asc.ohio-state.edu (140.254.159.31)
+Host is up (0.045s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for SEC001599D665D5.asc.ohio-state.edu (140.254.159.32)
+Host is up (0.056s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for HP6CD43E.asc.ohio-state.edu (140.254.159.33)
+Host is up (0.033s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for NPI48C14E.asc.ohio-state.edu (140.254.159.34)
+Host is up (0.028s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for RF906-HPLJ200color.asc.ohio-state.edu (140.254.159.35)
+Host is up (0.024s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for NPI685B57.asc.ohio-state.edu (140.254.159.37)
+Host is up (0.017s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for RF932-HPLJM553.asc.ohio-state.edu (140.254.159.88)
+Host is up (0.057s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for RF914-HPLJPM252dw.asc.ohio-state.edu (140.254.159.97)
+Host is up (0.027s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.159.100
+Host is up (0.044s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.189.5
+Host is up (0.042s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.189.6
+Host is up (0.12s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.189.72
+Host is up (0.041s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.189.96
+Host is up (0.071s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.189.98
+Host is up (0.059s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.189.169
+Host is up (0.019s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.189.186
+Host is up (0.019s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for 140.254.189.202
+Host is up (0.032s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.189.219
+Host is up (0.038s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for 140.254.189.232
+Host is up (0.049s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for pacific.admin.ohio-state.edu (140.254.192.26)
+Host is up (0.025s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for beaufort.admin.ohio-state.edu (140.254.192.46)
+Host is up (0.026s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for hampton2.admin.ohio-state.edu (140.254.192.69)
+Host is up (0.060s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for burwell.admin.ohio-state.edu (140.254.192.75)
+Host is up (0.059s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for hampton.admin.ohio-state.edu (140.254.192.76)
+Host is up (0.052s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for sas685a-vpn01.admin.ohio-state.edu (140.254.192.130)
+Host is up (0.070s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for 140.254.194.21
+Host is up (0.020s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.194.22
+Host is up (0.014s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for radimres25.med.ohio-state.edu (140.254.194.24)
+Host is up (0.026s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for fot424x2.med.ohio-state.edu (140.254.194.32)
+Host is up (0.028s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for radimres-ws5.med.ohio-state.edu (140.254.194.35)
+Host is up (0.020s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for brt1040-hplj3700.med.ohio-state.edu (140.254.194.52)
+Host is up (0.023s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for brt1040-hplj1320.med.ohio-state.edu (140.254.194.53)
+Host is up (0.035s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.194.156
+Host is up (0.046s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.194.157
+Host is up (0.042s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.194.187
+Host is up (0.082s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.194.235
+Host is up (0.092s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.200.2
+Host is up (0.032s latency).
+Not shown: 1 closed port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for it.asc.ohio-state.edu (140.254.201.46)
+Host is up (0.087s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for sccm-cas1.asc.ohio-state.edu (140.254.201.139)
+Host is up (0.11s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for casper-jds-01.asc.ohio-state.edu (140.254.201.199)
+Host is up (0.032s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for scarlet.asc.ohio-state.edu (140.254.201.220)
+Host is up (0.019s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.206.156
+Host is up (0.018s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.206.173
+Host is up (0.031s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.206.177
+Host is up (0.021s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.214.50
+Host is up (0.020s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for nlsat50.org.214.254.140.in-addr.arpa (140.254.214.51)
+Host is up (0.084s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for bane.chrr.ohio-state.edu (140.254.214.67)
+Host is up (0.020s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for loki.chrr.ohio-state.edu (140.254.214.70)
+Host is up (0.027s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for sip.chrr.ohio-state.edu (140.254.214.72)
+Host is up (0.036s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for av.chrr.ohio-state.edu (140.254.214.74)
+Host is up (0.035s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for ssl-vpn.chrr.ohio-state.edu (140.254.214.132)
+Host is up (0.035s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for magictube.chrr.ohio-state.edu (140.254.214.133)
+Host is up (0.032s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for oasis.chrr.ohio-state.edu (140.254.214.134)
+Host is up (0.030s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for nike.chrr.ohio-state.edu (140.254.214.137)
+Host is up (0.020s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for websurvey.chrr.ohio-state.edu (140.254.214.138)
+Host is up (0.049s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for nlswebsurvey.chrr.ohio-state.edu (140.254.214.139)
+Host is up (0.020s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for juno.chrr.ohio-state.edu (140.254.214.142)
+Host is up (0.050s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for eyebeam.chrr.ohio-state.edu (140.254.214.149)
+Host is up (0.037s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for compact.chrr.ohio-state.edu (140.254.214.150)
+Host is up (0.034s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for apps-ext.chrr.ohio-state.edu (140.254.214.152)
+Host is up (0.025s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for aaron.chrr.ohio-state.edu (140.254.214.154)
+Host is up (0.038s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for direct.nlsinfo.org (140.254.214.155)
+Host is up (0.035s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for nlsinfo.org (140.254.214.156)
+Host is up (0.021s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for vpn.chrr.ohio-state.edu (140.254.214.161)
+Host is up (0.034s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.214.162
+Host is up (0.032s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for workforce.chrr.ohio-state.edu (140.254.214.165)
+Host is up (0.046s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for dialin.chrr.ohio-state.edu (140.254.214.166)
+Host is up (0.044s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for meet.chrr.ohio-state.edu (140.254.214.167)
+Host is up (0.035s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for studentsuccess.chrr.ohio-state.edu (140.254.214.168)
+Host is up (0.019s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for ews-sso.chrr.ohio-state.edu (140.254.214.171)
+Host is up (0.084s latency).
+Not shown: 1 closed port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for be184-crest.classroom.ohio-state.edu (140.254.224.65)
+Host is up (0.032s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for 140.254.224.82
+Host is up (0.028s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for db029-ap.classroom.ohio-state.edu (140.254.224.149)
+Host is up (0.027s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for 140.254.224.182
+Host is up (0.10s latency).
+Not shown: 1 filtered port
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for cph-virt1.cph.ohio-state.edu (140.254.230.52)
+Host is up (0.042s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for research.cph.ohio-state.edu (140.254.230.54)
+Host is up (0.043s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for neyman.cph.ohio-state.edu (140.254.230.59)
+Host is up (0.041s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for cph-virt2.cph.ohio-state.edu (140.254.231.241)
+Host is up (0.036s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for media.cph.ohio-state.edu (140.254.231.252)
+Host is up (0.041s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for mediasrv.cph.ohio-state.edu (140.254.231.253)
+Host is up (0.030s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for fw-hso.rf.ohio-state.edu (140.254.240.130)
+Host is up (0.062s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 140.254.240.187
+Host is up (0.053s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for sp2013.gradsch.ohio-state.edu (140.254.242.15)
+Host is up (0.12s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for access.gradsch.ohio-state.edu (140.254.242.53)
+Host is up (0.16s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for www.gradsch.ohio-state.edu (140.254.242.67)
+Host is up (0.14s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for programs.asc.ohio-state.edu (140.254.248.27)
+Host is up (0.085s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for SCCM-D3.asc.ohio-state.edu (140.254.248.132)
+Host is up (0.068s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 140.254.248.227
+Host is up (0.057s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for sccm-asc1.asc.ohio-state.edu (140.254.248.245)
+Host is up (0.063s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for temp-staging.asc.ohio-state.edu (140.254.249.15)
+Host is up (0.066s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for people.asc.ohio-state.edu (140.254.249.16)
+Host is up (0.071s latency).
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for multicat.cohums.ohio-state.edu (140.254.249.201)
+Host is up (0.087s latency).
+Not shown: 1 closed port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for multicatprint.cohums.ohio-state.edu (140.254.249.202)
+Host is up (0.079s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for osuo.geology.ohio-state.edu (140.254.252.214)
+Host is up (0.11s latency).
+Not shown: 1 filtered port
+PORT   STATE SERVICE
+80/tcp open  http
+
+# Nmap done at Tue Apr 12 19:09:55 2016 -- 65536 IP addresses (3376 hosts up) scanned in 1458.47 seconds

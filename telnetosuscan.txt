@@ -1,0 +1,247 @@
+# Nmap 6.46 scan initiated Tue Apr 12 18:57:58 2016 as: nmap -p 23 --open -oN /Users/will/Documents/telnetosuscan.txt 140.254.189.5/16
+Nmap scan report for 140.254.0.34
+Host is up (0.0098s latency).
+PORT   STATE SERVICE
+23/tcp open  telnet
+
+Nmap scan report for dhcp-140-254-4-69.newark.ohio-state.edu (140.254.4.69)
+Host is up (0.040s latency).
+PORT   STATE SERVICE
+23/tcp open  telnet
+
+Nmap scan report for dhcp-140-254-4-73.newark.ohio-state.edu (140.254.4.73)
+Host is up (0.024s latency).
+PORT   STATE SERVICE
+23/tcp open  telnet
+
+Nmap scan report for frostholmprinter.med.ohio-state.edu (140.254.26.198)
+Host is up (0.074s latency).
+PORT   STATE SERVICE
+23/tcp open  telnet
+
+Nmap scan report for 140.254.36.150
+Host is up (0.17s latency).
+PORT   STATE SERVICE
+23/tcp open  telnet
+
+Nmap scan report for 140.254.36.151
+Host is up (0.17s latency).
+PORT   STATE SERVICE
+23/tcp open  telnet
+
+Nmap scan report for 140.254.36.152
+Host is up (0.055s latency).
+PORT   STATE SERVICE
+23/tcp open  telnet
+
+Nmap scan report for 140.254.36.153
+Host is up (0.052s latency).
+PORT   STATE SERVICE
+23/tcp open  telnet
+
+Nmap scan report for 140.254.36.154
+Host is up (0.054s latency).
+PORT   STATE SERVICE
+23/tcp open  telnet
+
+Nmap scan report for 140.254.36.158
+Host is up (0.056s latency).
+PORT   STATE SERVICE
+23/tcp open  telnet
+
+Nmap scan report for 140.254.36.159
+Host is up (0.056s latency).
+PORT   STATE SERVICE
+23/tcp open  telnet
+
+Nmap scan report for 140.254.36.160
+Host is up (0.058s latency).
+PORT   STATE SERVICE
+23/tcp open  telnet
+
+Nmap scan report for 140.254.36.161
+Host is up (0.057s latency).
+PORT   STATE SERVICE
+23/tcp open  telnet
+
+Nmap scan report for 140.254.36.162
+Host is up (0.057s latency).
+PORT   STATE SERVICE
+23/tcp open  telnet
+
+Nmap scan report for 140.254.36.163
+Host is up (0.057s latency).
+PORT   STATE SERVICE
+23/tcp open  telnet
+
+Nmap scan report for 140.254.36.164
+Host is up (0.057s latency).
+PORT   STATE SERVICE
+23/tcp open  telnet
+
+Nmap scan report for 140.254.36.165
+Host is up (0.057s latency).
+PORT   STATE SERVICE
+23/tcp open  telnet
+
+Nmap scan report for 140.254.36.166
+Host is up (0.057s latency).
+PORT   STATE SERVICE
+23/tcp open  telnet
+
+Nmap scan report for 140.254.36.167
+Host is up (0.064s latency).
+PORT   STATE SERVICE
+23/tcp open  telnet
+
+Nmap scan report for 140.254.36.169
+Host is up (0.057s latency).
+PORT   STATE SERVICE
+23/tcp open  telnet
+
+Nmap scan report for 140.254.36.170
+Host is up (0.056s latency).
+PORT   STATE SERVICE
+23/tcp open  telnet
+
+Nmap scan report for 140.254.36.171
+Host is up (0.056s latency).
+PORT   STATE SERVICE
+23/tcp open  telnet
+
+Nmap scan report for 140.254.36.172
+Host is up (0.063s latency).
+PORT   STATE SERVICE
+23/tcp open  telnet
+
+Nmap scan report for 140.254.36.173
+Host is up (0.063s latency).
+PORT   STATE SERVICE
+23/tcp open  telnet
+
+Nmap scan report for 140.254.36.174
+Host is up (0.056s latency).
+PORT   STATE SERVICE
+23/tcp open  telnet
+
+Nmap scan report for 140.254.36.175
+Host is up (0.056s latency).
+PORT   STATE SERVICE
+23/tcp open  telnet
+
+Nmap scan report for 140.254.36.176
+Host is up (0.063s latency).
+PORT   STATE SERVICE
+23/tcp open  telnet
+
+Nmap scan report for 140.254.36.177
+Host is up (0.063s latency).
+PORT   STATE SERVICE
+23/tcp open  telnet
+
+Nmap scan report for 140.254.36.179
+Host is up (0.056s latency).
+PORT   STATE SERVICE
+23/tcp open  telnet
+
+Nmap scan report for 140.254.36.180
+Host is up (0.063s latency).
+PORT   STATE SERVICE
+23/tcp open  telnet
+
+Nmap scan report for 140.254.36.182
+Host is up (0.063s latency).
+PORT   STATE SERVICE
+23/tcp open  telnet
+
+Nmap scan report for 140.254.39.201
+Host is up (0.15s latency).
+PORT   STATE SERVICE
+23/tcp open  telnet
+
+Nmap scan report for 140.254.39.203
+Host is up (0.017s latency).
+PORT   STATE SERVICE
+23/tcp open  telnet
+
+Nmap scan report for 140.254.64.42
+Host is up (0.10s latency).
+PORT   STATE SERVICE
+23/tcp open  telnet
+
+Nmap scan report for 140.254.64.50
+Host is up (0.0063s latency).
+PORT   STATE SERVICE
+23/tcp open  telnet
+
+Nmap scan report for 140.254.64.53
+Host is up (0.098s latency).
+PORT   STATE SERVICE
+23/tcp open  telnet
+
+Nmap scan report for 140.254.66.179
+Host is up (0.049s latency).
+PORT   STATE SERVICE
+23/tcp open  telnet
+
+Nmap scan report for 140.254.68.21
+Host is up (0.068s latency).
+PORT   STATE SERVICE
+23/tcp open  telnet
+
+Nmap scan report for 140.254.69.91
+Host is up (0.11s latency).
+PORT   STATE SERVICE
+23/tcp open  telnet
+
+Nmap scan report for 140.254.69.108
+Host is up (0.0098s latency).
+PORT   STATE SERVICE
+23/tcp open  telnet
+
+Nmap scan report for ak630-2-osunet-1.med.ohio-state.edu (140.254.76.133)
+Host is up (0.24s latency).
+PORT   STATE SERVICE
+23/tcp open  telnet
+
+Nmap scan report for 140.254.108.120
+Host is up (0.034s latency).
+PORT   STATE SERVICE
+23/tcp open  telnet
+
+Nmap scan report for 140.254.117.26
+Host is up (0.035s latency).
+PORT   STATE SERVICE
+23/tcp open  telnet
+
+Nmap scan report for 140.254.189.6
+Host is up (0.021s latency).
+PORT   STATE SERVICE
+23/tcp open  telnet
+
+Nmap scan report for brt1040-hplj3700.med.ohio-state.edu (140.254.194.52)
+Host is up (0.0057s latency).
+PORT   STATE SERVICE
+23/tcp open  telnet
+
+Nmap scan report for brt1040-hplj1320.med.ohio-state.edu (140.254.194.53)
+Host is up (0.0091s latency).
+PORT   STATE SERVICE
+23/tcp open  telnet
+
+Nmap scan report for 140.254.206.17
+Host is up (0.037s latency).
+PORT   STATE SERVICE
+23/tcp open  telnet
+
+Nmap scan report for 140.254.206.18
+Host is up (0.038s latency).
+PORT   STATE SERVICE
+23/tcp open  telnet
+
+Nmap scan report for 140.254.240.187
+Host is up (0.032s latency).
+PORT   STATE SERVICE
+23/tcp open  telnet
+
+# Nmap done at Tue Apr 12 19:35:01 2016 -- 65536 IP addresses (3431 hosts up) scanned in 2223.18 seconds
