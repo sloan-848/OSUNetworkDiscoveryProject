@@ -31,8 +31,3 @@
 - 140.254.194.53
   - JetDirect interface, hp LaserJet 1320 series
   - Full admin access through web panel
-
-### HTTTP Entries
-- 140.254.189.5
-  - HP LaserJet P4014 Printer
-  - Fully configurable, no password
